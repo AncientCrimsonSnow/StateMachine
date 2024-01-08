@@ -1,0 +1,3 @@
+[submodule "Assets/StateMachinePackage"]
+	path = Assets/StateMachinePackage
+	url = https://github.com/AncientCrimsonSnow/StateMachinePackage.git
