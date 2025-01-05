@@ -1,5 +1,3 @@
-# README for StateMachine Repository
-
 ## Overview
 This repository contains the complete Unity project used for developing and testing the StateMachine package, implementing a Hierarchical State Machine (HSM).
 
